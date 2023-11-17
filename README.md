@@ -43,9 +43,9 @@ A simple React application to display current weather and 5-day forecast using t
 
 5. Open your browser and go to `http://localhost:3000` to view the app.
 
-## Configuration
+## Screenshots
+![Ekran görüntüsü 2023-11-17 142756](https://github.com/ekeskn/react-weather-app/assets/96025028/c30b27c6-7a53-48e4-90ba-085e8c134e12)
+![Ekran görüntüsü 2023-11-17 142824](https://github.com/ekeskn/react-weather-app/assets/96025028/0c729d9b-daec-4ec6-b306-62b6f684d8e2)
+![Ekran görüntüsü 2023-11-17 142851](https://github.com/ekeskn/react-weather-app/assets/96025028/cf25364b-cd16-4c66-a8b9-ce3d920c340c)
 
-Before running the application, obtain an API key from [OpenWeatherMap](https://openweathermap.org/) and replace the `apiKey` variable in the `Weather.js` file.
 
-```javascript
-const apiKey = "your_openweathermap_api_key";
